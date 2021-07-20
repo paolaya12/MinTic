@@ -15,15 +15,15 @@ public class Condiciona {
             variable++;
         } while (variable < 200);
         */
-        /*
+        
         int num = 4;
         System.out.println(num++);
         System.out.println(num);    
-        */
+        /*
         if ((5 == 5) || (5 < 4)){
             System.out.println("Correcto!");
         if ((5 == 5) && (5 < 4))
-            System.out.println("Correcto.");
+            System.out.println("Correcto");
+        */
         }  
     }
-}

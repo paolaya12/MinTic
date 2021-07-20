@@ -11,6 +11,7 @@ public class par {
         int resto = num%2;
         par = resto == 0  ? "par" : "impar";
         System.out.println("El número " + num + " es " + par);
+        sc.close();
     }
 
 }

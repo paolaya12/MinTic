@@ -13,6 +13,7 @@ public class eliminarDigitos {
             N = N / 10;
             m -= 1;
         }
-        System.out.println("El número resultante es " + N);  
+        System.out.println("El número resultante es " + N); 
+        sc.close(); 
     }   
 }

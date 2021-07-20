@@ -11,5 +11,6 @@ public class numero {
         int cuadrado = dato*2;
         int cubo = dato*3;
         System.out.println("El resultado del doble del número es " + cuadrado + " y el resultado del triple del número es " + cubo);
+        sc.close();
     }
 }

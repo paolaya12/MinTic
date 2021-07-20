@@ -18,5 +18,6 @@ public class IVA {
 
     System.out.println("El producto " + nombreProducto + " tiene un valor unitario de " + precioVenta + " para venta al público");
     System.out.println("El producto " + nombreProducto + " recaudo en ventas un total de " + dineroRecaudado);
+    sc.close();
     }
 }

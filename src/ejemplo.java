@@ -5,5 +5,6 @@ public class ejemplo {
     System.out.println("Por favor ingrese su nombre");
     var nombre = sc.nextLine();
     System.out.println("Hola " + nombre + "!");
+    sc.close();
     }
 }

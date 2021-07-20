@@ -9,6 +9,7 @@ public class farenheit {
         temperatura = sc.nextInt();
         int Faren = 32 + (9 * temperatura / 5);
         System.out.println("La temperatura es " + Faren + " °F");
+        sc.close();
 
     }
     

@@ -1,4 +1,4 @@
-public class Ejercicio2 {
+public class Ejercicio {
     
     public static void main(String[] args) throws Exception {
 

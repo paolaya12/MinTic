@@ -8,6 +8,7 @@ public class parimpar {
         var respuesta = validarNumero(numero);
 
         System.out.println(respuesta);
+        sc.close();
     }
     public static String validarNumero(int numero){
         return (numero%2 == 0 ? numero + " Es par" : numero + " Es impar");

@@ -18,5 +18,6 @@ public class suerte {
             SumNum = SumNum/10;
         }
         System.out.println("Su número de la suerte es: " + SumDig);
+        sc.close();
     }
 }
